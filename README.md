@@ -5,7 +5,7 @@
 **Course:** ELEC 4 – Python Programming
 **Instructor:** Carl Gustaf Patrik B. Ferrer
 
-This repository contains my outputs for the Self-Paced Learning Assignment (Set 1; Set 2 will be added after it is finished).
+This repository contains my outputs for the ELEC 4 – Python Programming Self-Paced Learning Assignment.
 
 ## Activities
 
